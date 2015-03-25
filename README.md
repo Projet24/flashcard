@@ -1,3 +1,4 @@
+FlashCard24
 =====================
 
 #Introduction
@@ -7,7 +8,14 @@
 * First, you can create a new flash card, choose a name, and put some words and their translation in another language.
 * Then, we will give you a flash card id so that you can use it to train yourself in the training room or share it with your friends. 
 
-# <a name="team-members"></a>Team Members
+#Installation Guide
+
+* Download and install Node.js
+	* Windows : https://nodejs.org/download/
+	* Linux : sudo apt-get install nodejs
+	
+	
+# Team Members
 
 * Vincent Heng
     * Project Manager
@@ -17,6 +25,6 @@
 	* Developer
 	* Developer
 	
-# <a name="notes"></a>Developer's Notes
+# Developer's Notes
 
 > It's an open source project under development, so feel free to participate to our Git Hub.

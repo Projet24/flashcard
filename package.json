@@ -1,0 +1,10 @@
+{
+    "name": "FlashCard",
+    "version": "0.1.0",
+    "dependencies": {
+            "express": "~4.0"
+    },
+	"author": "Cartesianfox",
+	"description": "A flash card game."
+
+}

@@ -14,6 +14,10 @@ FlashCard24
 	* Windows : https://nodejs.org/download/
 	* Linux : sudo apt-get install nodejs
 	
+* Install local dependencies from package.json
+	* npm install
+	
+* Install global dependencies from package.json
 	
 # Team Members
 

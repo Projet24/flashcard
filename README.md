@@ -10,14 +10,25 @@ FlashCard24
 
 #Installation Guide
 
+> FlashCard24 use a MEAN/Fullstack architecture.
+
 * Download and install Node.js
-	* Windows : https://nodejs.org/download/
 	* Linux : sudo apt-get install nodejs
+	* Windows : https://nodejs.org/download/
 	
-* Install local dependencies from package.json
+* Install global and local dependencies from package.json
+	* npm install -g express
 	* npm install
+
+
+* Install and setup MongoDB
+	* Linux : sudo apt-get -y install mongodb
+	* Windows : https://www.mongodb.org/
+	* mkdir data
 	
-* Install global dependencies from package.json
+# Run Guide
+	* mongod --dbpath=/flashcard/data
+	* node index.js
 	
 # Team Members
 
